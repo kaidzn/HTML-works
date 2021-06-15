@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+p{
+    color: royalblue;
+}
+.orange{
+    color: orange;
+}
+.green{
+    color: green;
+}
+.gold{
+    color: gold;
+}
+a:hover{
+    color: red;
+}
